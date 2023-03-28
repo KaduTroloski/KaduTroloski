@@ -11,7 +11,7 @@ estou estudando Java e javascript<br/>
 
 ![Kadu GitHub stats](https://github-readme-stats.vercel.app/api?username=KaduTroloski&show_icons=true&theme=synthwave) &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaduTroloski)
 
-### Tecnologias que utilizo:
+## Tecnologias que utilizo:
 <div style="display:grid"><br/>
 <img align="center" alt="Delphi" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
 <img align="center"  alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
