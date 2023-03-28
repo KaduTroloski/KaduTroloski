@@ -9,7 +9,7 @@ estou estudando Java e javascript<br/>
 <img align="rigth" alt="kirby" src="https://cdn.wikirby.com/thumb/1/10/KRtDLD_Sleep.png/1200px-KRtDLD_Sleep.png" width="200px" heitgh="200px" /><br/>
 <div/><br/>
 
-![Kadu GitHub stats](https://github-readme-stats.vercel.app/api?username=KaduTroloski&show_icons=true&theme=synthwave) &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaduTroloski&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+![Kadu GitHub stats](https://github-readme-stats.vercel.app/api?username=KaduTroloski&show_icons=true&theme=synthwave) &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaduTroloski)
 
 ### Tecnologias que utilizo:
 <div style="display:grid"><br/>
