@@ -1,7 +1,7 @@
 # Olá! eu sou Kauan Propodoski 👋
 
 <div style="display:inline-block">                
-Sou uma pessoa facinada por tecnologia<br/> 
+Sou uma pessoa fascinada por tecnologia<br/> 
 tanto da parte de front-end e back-end,<br/>
 estudo a parte de hardware tambem.<br/>
 Sou estudante do curso tecnico de TI em ano de conclução 3/3,<br/> 
