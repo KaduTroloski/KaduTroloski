@@ -14,7 +14,7 @@ Atualmente estudo Typescript e Reactjs<br/>
 ## Tecnologias que utilizo:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,ts,postgres,react,nodejs,unity,docker,tailwind" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,ts,postgres,react,nodejs,unity,docker,tailwind,firebase" />
   </a>
 </p>
 
