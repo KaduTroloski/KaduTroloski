@@ -11,7 +11,7 @@ Atualmente estudo Typescript e Reactjs<br/>
 
 ![Kadu GitHub stats](https://github-readme-stats.vercel.app/api?username=KaduTroloski&show_icons=true&theme=synthwave) &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaduTroloski)
 
-## Tecnologias que utilizo:
+## Tecnologias que estudo:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,ts,postgres,react,nodejs,unity,docker,tailwind,firebase" />
