@@ -1,7 +1,7 @@
 # Hi! i'm Kauan Propodoski 👋
 
 <div style="display:inline-block">                
-I am a person fascinated by technology, both in front-end and back-end development. I also study hardware. I am a first-year student at the Computer Engineering Faculty at UniSatc.
+I am a person fascinated by technology, both in front-end and back-end development. I also study hardware. I am a first-year student at the Computer Engineering Faculty at UniSatc. <br/>
 <img align="rigth" alt="kirby" src="https://cdn.wikirby.com/thumb/1/10/KRtDLD_Sleep.png/1200px-KRtDLD_Sleep.png" width="200px" heitgh="200px" /><br/>
 <div/><br/>
 
