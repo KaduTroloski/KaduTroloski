@@ -10,7 +10,7 @@ I am a person fascinated by technology, both in front-end and back-end developme
 ## Technologies I study:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,ts,postgres,react,nodejs,unity,docker,tailwind,firebase,nextjs,threejs,sass,dynamodb&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,ts,postgres,react,nodejs,unity,docker,tailwind,firebase,nextjs,threejs,sass,aws,bash,rust&perline=5" />
   </a>
 </p>
 
